@@ -1,0 +1,90 @@
+{
+  "title": "Hello, I am Majid",
+  "subtitle": "Maybe a Developer! | Graphic Designer | Music Lover!",
+  "links": {
+    "telegram-plane": "https://t.me/deasurv",
+    "instagram": "https://instagram.com/majid__fatahi",
+    "stack-overflow": "https://stackoverflow.com/story/deasurv",
+    "github": "https://github.com/deasurv"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I like JavaScript and everything web."
+        },
+        {
+          "type": "p",
+          "content": "When my dev senses kick-in I build presumably awesome stuff. I stay close to the community and try to keep tabs with the pace at which the web is evolving. I also like to blog what I learn."
+        },
+        {
+          "type": "p",
+          "content": "I built this site from scratch. By scratch, I mean absolutely from scratch without any UI library/framework (except React though) and had so much fun along the way."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "./image/js.png",
+            "title": "JavaScript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "./image/reactjs.png",
+            "title": "ReactJS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "./image/html.png",
+            "title": "HTML"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "./image/css.png",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "./image/design.png",
+            "title": "Design"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "./image/linux.png",
+            "title": "Linux"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "./image/php.png",
+            "title": "PHP"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "./image/zf.png",
+            "title": "Zend Framework"
+          }
+        }
+      ]
+    }
+  ]
+}

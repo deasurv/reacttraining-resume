@@ -1,0 +1,10 @@
+.third .title{
+    font-size: 4rem;
+    margin-bottom: 5rem;
+}
+
+.third .card-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}

@@ -1,0 +1,66 @@
+.fa-social-icons{
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    padding: 1rem;
+    margin: .5rem;
+    font-size: 2rem;
+    border-radius: 50%;
+    background-color: #777;
+    color: #fff;
+    transition: all .2s;
+}
+
+.fa-social-icons:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 0 .5rem .15rem #eee;
+}
+
+.fa-social-icons.telegram-plane{
+    background-color: #3498db;
+}
+
+.fa-social-icons.telegram-plane:hover{
+    background-color: #fff;
+    color: #3498db;
+}
+
+.fa-social-icons.instagram{
+    background-color: #8a3ab9;
+}
+
+.fa-social-icons.instagram svg{
+    transform: translateX(2px) translateY(-2px);
+}
+
+.fa-social-icons.instagram:hover{
+    background-color: #fff;
+    color: #8a3ab9;
+}
+
+.fa-social-icons.stack-overflow{
+    background-color: #f48024;
+}
+
+.fa-social-icons.stack-overflow svg{
+    transform: translateX(3px) translateY(-3px);
+}
+
+
+.fa-social-icons.stack-overflow:hover{
+    background-color: #fff;
+    color: #f48024;
+}
+
+.fa-social-icons.github{
+    background-color: #333;
+}
+
+.fa-social-icons.github svg{
+    transform: translateY(-2px);
+}
+
+.fa-social-icons.github:hover{
+    background-color: #fff;
+    color: #333;
+}

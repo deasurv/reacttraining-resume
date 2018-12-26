@@ -1,0 +1,9 @@
+.full-screen-page{
+    height: 100vh;
+    position: relative;
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

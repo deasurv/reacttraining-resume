@@ -1,0 +1,10 @@
+.title{
+    font-size: 5rem;
+    margin: 0;
+}
+
+.subtitle{
+    text-transform: uppercase;
+    letter-spacing: .25rem;
+    color: #bdc3c7;
+}
